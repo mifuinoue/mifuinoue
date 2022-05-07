@@ -10,7 +10,7 @@ public class Main {
 	 * 処理開始位置
 	 *
 	 * @param args
-	 */
+	 */aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 	public static void main(String[] args) {
 		display();	//displayメソッド呼び出し
 	}
