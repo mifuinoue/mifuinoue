@@ -1,0 +1,10 @@
+diff a/CUI_EM_OOP/src/com/rhizome/example/main/Main.java b/CUI_EM_OOP/src/com/rhizome/example/main/Main.java	(rejected hunks)
+@@ -10,7 +10,7 @@
+ 	 * �����J�n�ʒu
+ 	 *
+ 	 * @param args
+-	 */
++	 */aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ 	public static void main(String[] args) {
+ 		display();	//display���\�b�h�Ăяo��
+ 	}
